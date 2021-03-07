@@ -4,9 +4,15 @@
 ![](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 
+----
+
 # Q&A model for SQUAD 2.0 using BERT
 
 BERT-based model which returns “an answer”, given a user question and a passage which includes the answer of the question.
+
+
+#### ‼️ If notebook doesn't open in GitHub follow the link [jupyter nbviewer](https://nbviewer.jupyter.org/github/Nikoletos-K/QA-with-BERT-for-SQuAD/blob/main/BERT_SQUAD.ipynb)
+
 
 ## Steps for building this Q&A model
 
@@ -44,3 +50,5 @@ crash (CUDA)
 only the two) but the results were worse than 0.00001 that had also on the repository that I followed for rhis implementation.
 - ___Epochs:___ CUDA crashed either for memory either for time of execution, after 2
 epochs as the model needed approximately 2 hours for each epoch.
+
+---
