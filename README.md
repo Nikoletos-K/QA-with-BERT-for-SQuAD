@@ -52,3 +52,5 @@ only the two) but the results were worse than 0.00001 that had also on the repos
 epochs as the model needed approximately 2 hours for each epoch.
 
 ---
+
+© Konstantinos Nikoletos
