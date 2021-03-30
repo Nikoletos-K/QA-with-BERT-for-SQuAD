@@ -11,8 +11,7 @@
 BERT-based model which returns “an answer”, given a user question and a passage which includes the answer of the question.
 
 
-#### ‼️ Better open notebook with [jupyter nbviewer](https://nbviewer.jupyter.org/github/Nikoletos-K/QA-with-BERT-for-SQuAD/blob/main/BERT_SQUAD.ipynb)
-✔️
+#### ‼️ Better open notebook with [jupyter nbviewer](https://nbviewer.jupyter.org/github/Nikoletos-K/QA-with-BERT-for-SQuAD/blob/main/BERT_SQUAD.ipynb)✔️
 
 ## Steps for building this Q&A model
 
