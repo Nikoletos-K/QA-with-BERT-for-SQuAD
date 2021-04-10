@@ -7,15 +7,6 @@
 ----
 
 
-<p align="center">
-  <a href="https://nbviewer.jupyter.org/github/Nikoletos-K/QA-with-BERT-for-SQuAD/blob/main/BERT_SQUAD.ipynb">
-      <img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://drive.google.com/file/d/1elhScJaMDokeLBbQVEfMVoBvBI1-bRvt/view?usp=sharing">
-    <img src="https://colab.research.google.com/assets/colab-badge.svg" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-
 # Q&A model for SQUAD 2.0 using BERT
 
 BERT-based model which returns “an answer”, given a user question and a passage which includes the answer of the question.
