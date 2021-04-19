@@ -61,4 +61,4 @@ epochs as the model needed approximately 2 hours for each epoch.
 
 ---
 
-© Konstantinos Nikoletos
+© Konstantinos Nikoletos | 2020 - 2021
